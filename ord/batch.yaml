@@ -12,7 +12,7 @@ parent: 6ac5cacb768794f4fd7a78bf00f2074891fce68bd65c4ff36e77177237aacacai0
 #
 # each inscription has the following fields:
 #
-# `inscription`: path to inscription contents
+# `inscription`: path to inscription contentsq
 # `metadata`: inscription metadata (optional)
 # `metaprotocol`: inscription metaprotocol (optional)
 inscriptions:
